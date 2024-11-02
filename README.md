@@ -69,7 +69,7 @@ Here is the list of requirements that your address book should be in a position 
                         .Enter phone number: 3837234444
                         .Entered Phone number not exist in the list
                 .Delete contact by email address.   
-                    .some test casses 
+                    .some test casses  
                         .Enter email: swetha@hmail.com
                         .Entered email not exist in the list                                           
 5.List all contacts:
