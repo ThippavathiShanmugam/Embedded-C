@@ -1,0 +1,17 @@
+Alice Smith,0987654321,alice@example.com
+Bob Johnson,1112223333,bob@company.com
+Carol White,4445556666,carol@company.com
+David Brown,7778889999,david@example.com
+Eve Davis,6665554444,eve@example.com
+Frank Miller,3334445555,frank@example.com
+Grace Wilson,2223334444,grace@example.com
+Hannah Clark,5556667777,hannah@example.com
+Ian Lewis,8889990000,ian@example.com
+Shanmugam,9898989898,hsh@c.com
+Ramesh,8688064168,jskaj@ss.com
+Rajesh,0987890987,znxmn@a.com
+Shaik,7678767876,shaik@gmail.com
+Ravi kumar,2343234323,ravi@d.com
+pavan,5465456545,ajhsja@a.com
+varun,0909898989,qsj@s.com
+Praveen Kumar,3452678123,praveenkumar@gmail.com
